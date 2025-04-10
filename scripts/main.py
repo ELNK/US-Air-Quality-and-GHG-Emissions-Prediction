@@ -1,4 +1,3 @@
-# scripts/main.py
 from load_data import load_facilities_data, load_gas_data, load_aqi_data, load_county_mapping
 from clean_data import clean_facility_columns, clean_gas_columns
 from feature_engineering import one_hot_encode_gas, aggregate_by_county, compute_aqi_percent

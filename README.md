@@ -96,5 +96,5 @@ Trains and evaluates both linear regression and MLP (neural network) models to p
 
 ## 📬 Author
 
-Elina Guo 
-Feel free to reach out with questions or contributions!
+- Elina Guo 
+- Feel free to reach out with questions or contributions!

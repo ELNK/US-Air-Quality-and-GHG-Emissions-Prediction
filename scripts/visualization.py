@@ -1,8 +1,7 @@
-# scripts/visualization.py
 import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
-from scripts.config import FIGURES_DIR
+from config import FIGURES_DIR
 
 def correlation_heatmap(df, cols):
     corr = df[cols].corr()
